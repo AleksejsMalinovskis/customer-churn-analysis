@@ -141,8 +141,3 @@ Key drivers include:
 - product usage  
 
 Improving customer experience, simplifying products, and targeting high-risk segments can significantly reduce churn and improve long-term profitability.
-
----
-
-## 👨‍💻 Author
-Aspiring Data Analyst
